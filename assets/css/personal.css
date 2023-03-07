@@ -1,0 +1,10 @@
+.personal{
+    width: 30%;
+    height: 550px;
+    padding-top: 4.5rem;
+    padding-bottom: 4rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    box-sizing: border-box;
+}

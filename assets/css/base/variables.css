@@ -1,0 +1,16 @@
+:root{
+
+    --colorPrincipal: #A569BD;
+    --colorTexto: #F7F9F9;
+    --colorFondo: #D0D3D4;
+    --colorError: #FF0000;
+    --colorFondoSegundario: #FEF5E7;
+    --colorFondoTerceario: #000000;
+    --paddingLados: 3rem;
+    --tituloGrande: 4rem;
+    --tituloMediano: 3rem;
+    --tituloPequeño: 2rem;
+    --descripcion: 1.2rem;
+
+
+}

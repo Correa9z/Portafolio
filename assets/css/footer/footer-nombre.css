@@ -1,0 +1,7 @@
+.footer__nombre{
+    font-size: var(--descripcion);
+    color: var(--colorTexto);
+    font-style: italic;
+    text-align: center;
+    margin-top: 3rem;
+}

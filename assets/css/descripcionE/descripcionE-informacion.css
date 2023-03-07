@@ -1,0 +1,6 @@
+.descripcionE__informacion{
+    font-size: var(--descripcion);
+    font-weight: 300;
+    margin-bottom: .3rem;
+    color: var(--colorTexto);
+}

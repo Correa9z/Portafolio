@@ -1,0 +1,6 @@
+.informacionDescripcion__nombre{
+    font-size: var(--tituloPequeño);
+    color: var(--colorFondoTerceario);
+    box-sizing: border-box;
+    width: 280px;
+}

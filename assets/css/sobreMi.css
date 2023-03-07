@@ -1,0 +1,9 @@
+.sobreMi{
+    padding-right: var(--paddingLados);
+    padding-left: var(--paddingLados);
+    box-sizing: border-box;
+    background-color: var(--colorPrincipal);
+    display: flex;
+    padding-top: 2rem;
+    height: 620px;
+}

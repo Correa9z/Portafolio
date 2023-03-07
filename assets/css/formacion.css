@@ -1,0 +1,7 @@
+.formacion{
+    height: 860px;
+    background-color: var(--colorFondoTerceario);
+    padding-left: 8rem;
+    padding-right: 8rem;
+    box-sizing: border-box;
+}

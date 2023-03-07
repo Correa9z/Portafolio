@@ -1,0 +1,5 @@
+.formulario__texto{
+    font-size: var(--descripcion);
+    font-weight: 100;
+    margin-top: 0;
+}

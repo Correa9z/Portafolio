@@ -1,0 +1,17 @@
+.botonesE__git{
+    width: 45%;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: var(--colorFondoTerceario);
+    color: var(--colorTexto);
+    border-color: var(--colorTexto);
+    border: 3px solid;
+    text-align: center;
+    margin-right: 1rem;
+    font-weight: bold;
+}
+
+.botonesE__git:hover{
+    transform: scale(1.1);
+}

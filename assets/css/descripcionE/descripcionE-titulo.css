@@ -1,0 +1,5 @@
+.descripcionE__titulo{
+    font-size: var(--tituloPequeño);
+    margin-bottom: .2rem;
+    color: var(--colorTexto);
+}

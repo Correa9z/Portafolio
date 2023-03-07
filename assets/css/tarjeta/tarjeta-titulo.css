@@ -1,0 +1,4 @@
+.tarjeta__titulo{
+    font-size: var(--tituloPequeño);
+    text-align: center;
+}

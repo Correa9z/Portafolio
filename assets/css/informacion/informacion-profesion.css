@@ -1,0 +1,7 @@
+.informacion__profesion{
+    font-size: var(--tituloPequeño);
+    width: 350px;
+    font-family: Roboto, cursive;
+    font-style: italic;
+    font-weight: 200;
+}

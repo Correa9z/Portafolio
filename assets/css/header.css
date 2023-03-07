@@ -1,0 +1,14 @@
+.header{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 5rem;
+    padding: 2rem 3rem;
+    box-sizing: border-box;
+    border-style: dashed;
+    border-top: 1px;
+    border-left: 1px;
+    border-right: 1px;
+    border-color: var(--colorTexto);
+    background-color: var(--colorPrincipal);
+}

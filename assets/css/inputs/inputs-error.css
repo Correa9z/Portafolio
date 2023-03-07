@@ -1,0 +1,4 @@
+.inputs__error{
+    font-size: var(--descripcion - .5rem);
+    color: var(--colorError);
+}

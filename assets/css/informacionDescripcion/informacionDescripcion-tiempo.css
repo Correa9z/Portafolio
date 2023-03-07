@@ -1,0 +1,5 @@
+.informacionDescripcion__tiempo{
+    color: var(--colorFondoTerceario);
+    font-size: var(--descripcion);
+    box-sizing: border-box;
+}

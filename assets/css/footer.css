@@ -1,0 +1,8 @@
+.footer{
+    height: 150px;
+    background-color: var(--colorFondoTerceario);
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    padding-left: var(--paddingLados);
+    padding-right: var(--paddingLados);
+}

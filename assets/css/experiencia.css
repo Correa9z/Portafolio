@@ -1,0 +1,8 @@
+.experiencia{
+    padding-right: var(--paddingLados);
+    padding-left: var(--paddingLados);
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    margin-top: 3rem;
+}

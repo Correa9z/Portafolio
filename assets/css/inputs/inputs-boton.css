@@ -1,0 +1,13 @@
+.inputs__boton{
+    width: 150px;
+    padding: .9rem 0;
+    background-color: var(--colorPrincipal);
+    border: none;
+    color: var(--colorTexto);
+    animation: all 1s;
+}
+
+.inputs__boton:hover{
+    transform: scale(1.1);
+    cursor: pointer;
+}

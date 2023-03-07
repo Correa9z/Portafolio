@@ -1,0 +1,11 @@
+.contenedorT{
+    margin-top: 3rem;
+    padding-right: var(--paddingLados);
+    padding-left: var(--paddingLados);
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    box-sizing: border-box;
+    position: relative;
+
+}

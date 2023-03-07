@@ -1,0 +1,9 @@
+.proyectos{
+    height: 700px;
+    background-color: var(--colorFondoTerceario);
+    border-color: var(--colorTexto);
+    border-style: dashed;
+    border-bottom: 2px;
+    border-left: 2px;
+    border-right: 2px;
+}

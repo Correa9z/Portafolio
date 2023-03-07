@@ -1,0 +1,7 @@
+.referencias__img{
+    height: 50px;
+}
+
+.referencias__img:hover{
+    transform: scale(1.1);
+}

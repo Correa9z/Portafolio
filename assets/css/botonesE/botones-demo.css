@@ -1,0 +1,16 @@
+.botonesE__demo{
+    width: 45%;
+    padding: 1rem 2rem;
+    box-sizing: border-box;
+    text-decoration: none;
+    background-color: var(--colorTexto);
+    color: var(--colorFondoTerceario);
+    border-color: var(--colorFondoTerceario);
+    border: 3px solid;
+    text-align: center;
+    font-weight: bold;
+}
+
+.botonesE__demo:hover{
+    transform: scale(1.1);
+}

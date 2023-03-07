@@ -1,0 +1,13 @@
+.academicaD{
+    height: 170px;
+    width: 520px;
+    display: flex;
+    flex-direction: row-reverse;
+    box-sizing: border-box;
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    background-color: var(--colorTexto);
+    border-radius: 35px;
+    position: relative;
+    right: -620px;
+}
