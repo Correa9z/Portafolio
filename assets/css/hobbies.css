@@ -4,3 +4,9 @@
     padding-bottom: 8rem;
     box-sizing: border-box;
 }
+
+@media screen and (max-width: 900px) {
+    .hobbies{
+        height: 800px;
+    }
+}

@@ -1,3 +1,10 @@
 .informacion__nombre{
     font-size: var(--tituloMediano);
 }
+
+
+@media screen and (max-width: 900px) {
+    .informacion__nombre{
+        text-align: center;
+    }
+}

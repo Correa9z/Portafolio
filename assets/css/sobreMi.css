@@ -7,3 +7,12 @@
     padding-top: 2rem;
     height: 620px;
 }
+
+
+
+@media screen and (max-width: 768px) {
+    .sobreMi{
+        flex-direction: column;
+        height: 1300px;
+    }
+}

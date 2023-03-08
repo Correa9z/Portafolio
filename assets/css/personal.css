@@ -8,3 +8,10 @@
     justify-content: center;
     box-sizing: border-box;
 }
+
+
+@media screen and (max-width: 768px) {
+    .personal{
+        width: 100%;
+    }
+}

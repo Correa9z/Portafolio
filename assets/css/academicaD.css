@@ -11,3 +11,11 @@
     position: relative;
     right: -620px;
 }
+
+@media screen and (max-width: 900px) {
+    .academicaD{
+        width: 100%;
+        right: 0;
+        margin-bottom: 1rem;
+    }
+}

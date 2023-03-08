@@ -4,3 +4,11 @@
     margin: 0 auto;
     margin-bottom: 2rem;
 }
+
+
+
+@media screen and (max-width: 900px) {
+    .banner__titulo{
+        width: 200px;
+    }
+}

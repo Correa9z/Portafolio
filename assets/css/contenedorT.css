@@ -9,3 +9,11 @@
     position: relative;
 
 }
+
+
+@media screen and (max-width: 900px) {
+    .contenedorT{
+        padding-right: 0;
+        padding-left: 0;
+    }
+}

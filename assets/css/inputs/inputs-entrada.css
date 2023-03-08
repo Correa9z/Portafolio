@@ -3,3 +3,9 @@
     margin-bottom: 2rem;
     
 }
+
+@media screen and (max-width: 900px) {
+    .inputs__entrada{
+        width: 400px;
+    }
+}

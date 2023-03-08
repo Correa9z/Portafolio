@@ -12,3 +12,11 @@
     border-color: var(--colorTexto);
     background-color: var(--colorPrincipal);
 }
+
+
+@media screen and (max-width: 900px) {
+    .header{
+        justify-content: center;
+    }
+}
+

@@ -6,3 +6,12 @@
     justify-content: center;
     margin-top: 3rem;
 }
+
+@media screen and (max-width: 900px) {
+    .experiencia{
+        flex-direction: column;
+        justify-content: center;
+        padding-right: 0;
+        padding-left: 0;
+    }
+}

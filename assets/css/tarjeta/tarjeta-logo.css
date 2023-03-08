@@ -1,6 +1,12 @@
 .tarjeta__logo{
     height: 90px;
-   position: relative;
-   left: 35%;
-   right: 50%;
+    position: relative;
+    left: 35%;
+    right: 50%;
+}
+
+@media screen and (max-width: 768px) {
+    .tarjeta__logo{
+        left: 33%;
+    }
 }

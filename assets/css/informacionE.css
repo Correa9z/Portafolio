@@ -3,3 +3,11 @@
     box-sizing: border-box;
     padding-left: 3rem;
 }
+
+@media screen and (max-width: 900px) {
+    .informacionE{
+        width: 100%;
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

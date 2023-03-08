@@ -8,3 +8,10 @@
     justify-content: center;
 
 }
+
+@media screen and (max-width: 900px) {
+    .descripcionE{
+        width: 100%;
+        height: 200px;
+    }
+}

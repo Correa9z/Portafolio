@@ -3,3 +3,10 @@
     padding-left: 5rem;
     padding-right: var(--paddingLados);
 }
+
+@media screen and (max-width: 900px) {
+    .contactoC{
+        padding-left: 1rem;
+        padding-right: 1rem;
+    }
+}

@@ -1,5 +1,5 @@
 .descripcion{
     height: 400px;
     box-sizing: border-box;
-    padding: 1.5rem var(--paddingLados);
+    padding: 1.5rem 0;
 }
