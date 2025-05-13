@@ -726,9 +726,13 @@ svg {
 }
 
 @media (max-width: 480px) {
-  .nav {
-    flex-wrap: wrap;
-    justify-content: center;
+
+  .header {
+    width: 390px;
+  }
+
+  .header__nav {
+    display: none;
   }
   
   .nav__item {
@@ -746,5 +750,9 @@ svg {
     
     .experiencia-logo {
         margin-bottom: 1rem;
+    }
+
+    .contactoC__img{
+      display: none;
     }
 }
